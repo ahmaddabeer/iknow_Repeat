@@ -104,13 +104,12 @@ This makes it easier to find a language quickly from a long list.
 ## 📦 JSON Structure Example
 
 ```json
-[
+
   {
     "name": "Java",
     "oldName": "Oak",
     "developer": "James Gosling",
     "year": "1995",
     "imageUrl": "https://example.com/java.png"
-  },
-  ...
-]
+  }
+ 
